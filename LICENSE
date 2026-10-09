@@ -1,0 +1,145 @@
+Atlaya View License v1.0
+Copyright (c) 2026 Chris Deliga / CNS Capecter NetworXs System
+
+This license applies to the compiled software distributed as "AtlayaView"
+("the Software"). The Software is closed-source: no source code is published
+or made available under this license. This document governs your use of the
+compiled/binary distributions only.
+
+1. GRANT OF LICENSE
+   Subject to the terms of this license and, where applicable, the terms of
+   the license tier you have obtained (trial, free, or paid, issued via the
+   official distribution channel), the copyright holder grants you a
+   worldwide, non-exclusive, non-transferable license to install and run the
+   Software on devices you own or control, strictly within the functional
+   scope and device limits of your license tier. Unless your license tier
+   expressly states otherwise, this license is limited to ONE (1) device
+   (see Section 7, "Trial Period, Device-Bound License File, and
+   Revocation").
+
+2. RESTRICTIONS
+   Except as expressly permitted under Section 1, you may NOT, without prior
+   written permission from the copyright holder:
+   (a) reverse-engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code of the Software, except to the extent such
+       restriction is prohibited by applicable mandatory law;
+   (b) modify, adapt, translate, or create derivative works of the Software;
+   (c) redistribute, sublicense, rent, lease, resell, or otherwise make the
+       Software or any part of it available to any third party, whether for
+       free or for a fee;
+   (d) circumvent, disable, or interfere with any license validation,
+       device-bound license file, trial-period check, or other
+       license-enforcement mechanism, including by running the Software on a
+       device other than the one a license file was issued for, by resetting
+       or tampering with the trial period, or by tampering with, forging, or
+       reusing a license file issued for a different device;
+   (e) remove, obscure, or alter any copyright, trademark, or license notice
+       contained in the Software;
+   (f) use the Software to develop a competing product or service;
+   (g) use the Software beyond the device limits or functional scope of your
+       license tier without obtaining the corresponding upgrade.
+
+3. THIRD-PARTY COMPONENTS
+   The Software includes third-party components (for example the .NET
+   runtime and open-source libraries). Such components remain subject to
+   their own respective licenses, which take precedence over this license
+   for those specific components.
+
+4. TRADEMARKS AND NAMING
+   "Atlaya," "AtlayaView," and any associated logos or branding are reserved
+   to the copyright holder. You may not use these names, or any confusingly
+   similar name, to identify any modified version, fork, or derivative work,
+   or any other software or service, without prior written permission.
+
+5. FEES AND LICENSE TIERS
+   At the time of publication of this license, licenses are issued free of
+   charge, are limited to a term of three (3) months, and can be renewed as
+   often as you like for as long as no paid licenses are offered. The
+   copyright holder may introduce paid licenses and different license tiers
+   at any time. A license already issued remains valid for its stated term;
+   renewal after that term is subject to the terms and fees in effect at the
+   time of renewal. Use of paid functionality requires a valid license
+   obtained through the official distribution/purchase channel.
+
+6. NO GUARANTEE OF RESULTS
+   The Software visualizes the storage usage it can read from your device.
+   Displayed sizes can differ from other tools (for example because of file
+   system access rights, hard links, compression, or files changing during
+   a scan). You remain responsible for verifying important information
+   before deleting or moving data based on what the Software displays.
+
+7. TRIAL PERIOD, DEVICE-BOUND LICENSE FILE, AND REVOCATION
+   The Software may be used in full, without a license file, for an initial
+   trial period of seven (7) days, starting on first launch after
+   installation. Beyond that trial period, use of the Software requires a
+   valid license file that is cryptographically signed by the copyright
+   holder and bound to a specific device (identified by a hashed,
+   non-reversible device identifier). The Software will refuse to scan once
+   the trial period has ended and no such file is present, if the file's
+   signature cannot be verified, if the file was issued for a different
+   device, or if the license term has ended.
+   (a) Reinstalling the Software on the same device does not require a new
+       license file. Moving your license to a different device requires
+       contacting the copyright holder (Section 11) for reissuance.
+   (b) The copyright holder may revoke or deactivate a license file at any
+       time, including but not limited to cases of breach of this license
+       or fraud. Where the Software performs its periodic online revocation
+       check, a previously activated license remains usable for a grace
+       period of up to 30 days after the Software last completed that check
+       successfully (for example because the device was offline), after
+       which it stops functioning until connectivity is restored or a new
+       license file is issued. A license that is explicitly revoked stops
+       functioning once the Software next performs a successful revocation
+       check; no grace period applies to an explicit revocation.
+   (c) The online check transmits only the license identifier to the
+       revocation list on the official website; the Software does not
+       transmit the contents of your drives.
+
+8. TERMINATION
+   This license terminates automatically, without notice, if you breach any
+   of its terms. Upon termination, you must stop using the Software and
+   destroy any copies in your possession, except as required to preserve
+   evidence of, or remedy, the breach. The copyright holder may additionally
+   revoke your license file under Section 7(b).
+
+9. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+   To the maximum extent permitted by applicable mandatory law, the
+   Software is provided "AS IS," without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement.
+   (a) The copyright holder is liable without limitation for damages caused
+       by intent (Vorsatz) or gross negligence (grobe Fahrlässigkeit), and
+       for damages resulting from injury to life, body, or health.
+   (b) For damages caused by ordinary/slight negligence, the copyright
+       holder is liable only for the breach of a material obligation
+       essential to the purpose of this license (a "Kardinalpflicht" under
+       German law). In that case, liability is limited to the damages that
+       were foreseeable and typical for agreements of this kind at the time
+       this license was entered into.
+   (c) Beyond subsections (a) and (b), liability for damages caused by
+       ordinary/slight negligence is excluded.
+   (d) Liability under the German Product Liability Act
+       (Produkthaftungsgesetz), where applicable, remains unaffected.
+   (e) The above limitations apply equally in favor of the copyright
+       holder's vicarious agents and performance assistants.
+
+10. GOVERNING LAW
+    This license is governed by the laws of the Federal Republic of Germany,
+    without regard to its conflict-of-law principles. Any dispute arising
+    from this license shall be subject to the exclusive jurisdiction of the
+    courts of Germany. If you are a consumer with your habitual residence in
+    another EU member state, this choice of law does not deprive you of any
+    protection afforded to you by mandatory provisions of the law of that
+    state.
+
+11. EARLIER VERSIONS AND CONTACT
+    Versions of AtlayaView released up to and including v2.0.36 were
+    published under the MIT License. Those specific released versions remain
+    available to their recipients under the MIT License terms; this does not
+    extend to later versions, to which this license applies.
+
+    To use the Software beyond the scope of this license (for example
+    redistribution, an enterprise agreement, or reissuing your license file
+    for a new device), please contact the copyright holder.
+
+    Contact: AtlayaView@capecter.com (alternatively info@capecter.com)
